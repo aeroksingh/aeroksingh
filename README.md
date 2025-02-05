@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @aeroksingh
-- 👀 I’m interested in Coding and currently try to Explore & Understand it better.
-- 🌱 I’m a BTech Computer Science Student.
-- 💞️ I’m looking to collaborate on DSA & Development Projects.
-- 📫 How to reach me : try to contact me via email.
-- 😄 Pronouns: he/him
+👋 Hey there! I'm aero
 
+💻 BTech Computer Science Student | Developer
 
+🚀 Exploring the World of Code – Always eager to learn and improve my understanding of Data Structures, Algorithms, and Development.
+
+🔍 Interests – Competitive programming, problem-solving, and building cool projects.
+
+🤝 Looking to Collaborate – Open to working on DSA & Development projects to sharpen skills and create impactful solutions.
+
+📬 Reach Me – Feel free to contact me via email if you'd like to connect or collaborate!
+
+😄 Pronouns: He/Him
